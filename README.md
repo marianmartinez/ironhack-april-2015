@@ -11,4 +11,4 @@
 * DAY 5 - [Chess Validator](https://github.com/marianmartinez/ironhack-chess-validator)
 
 ## Week 2
-* DAY 1 - [The online calculator](https://github.com/marianmartinez/ironhack-online-calculator)
+* - [The online calculator](https://github.com/marianmartinez/ironhack-online-calculator)
