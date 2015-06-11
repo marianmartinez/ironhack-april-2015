@@ -12,3 +12,6 @@
 
 ## Week 2
 * - [The online calculator](https://github.com/marianmartinez/ironhack-online-calculator)
+
+## Final project
+* - [Ironhack final project](https://github.com/marianmartinez/ironhack-final-project) 
